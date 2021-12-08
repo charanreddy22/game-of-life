@@ -17,6 +17,9 @@
         <targetJdk>1.8</targetJdk>
         <github.account>wakaleo</github.account>
         <thucydides.version>1.8.4</thucydides.version>
+        <sonar.host.url>http://18.117.252.218:9000/</sonar.host.url>
+	    <sonar.login>admin</sonar.login>
+	    <sonar.password>Lctr@1997</sonar.password>
         <jelastic.context>gameoflife</jelastic.context>
         <jelastic.environment>wakaleo</jelastic.environment>
     </properties>
